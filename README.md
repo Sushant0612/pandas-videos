@@ -1,4 +1,4 @@
-# Python pandas Q&A video series
+# Python pandas Q&A video
 
 Read about the series, and view all of the videos on one page: [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/).
 
